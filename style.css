@@ -7,12 +7,16 @@ body{
 .hero-section{
  height: 700px;
  width: 100%;
- background-color: antiquewhite;
+ background-color: white;
 }
 .navbar{
  height: 100px;
  width: 100%; 
- background-color: aqua;
+ 
+}
+.logo img {
+    height: 60px;
+    width: 120px;
 }
 .container1{
 
